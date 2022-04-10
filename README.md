@@ -1,10 +1,11 @@
-Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer engineering student in University Moulay Ismail, Meknes,Morocco. I'm currently completing my studies in Germany. So far, i've studied everything that builds up computer science from web development to AI; and this my projects sharing space, it's still primary, but it'll grow to be a mild of great projects!
+Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer engineering student in University Moulay Ismail, Meknes,Morocco. I'm currently completing my studies in Germany. So far, i've studied everything that builds up computer science from web development to AI; and this is my projects sharing space, it's still primary, but it'll grow to be a mild of great projects!
 
 ##### - 🔭 I’m currently working on literally Everything
 
 ##### - 🌱 I’m currently learning AI stuff
 
 ##### - 👯 I’m looking to collaborate on INTERRESTING projects
+
 
 ##### - 📫 How to reach me: INSTA :@asmae_mahjoubi
 
@@ -33,3 +34,6 @@ Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer enginee
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Python" height="30" style="max-width: 100%;"></a>.
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"><img  alt="Arduino" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" style="max-width: 100%;"></a>
 </p>
+<p align="center" dir="auto">
+<img src="https://media4.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=ecf05e47107e284fb2601045bbc7c2a1f06b343f064ee5b1&amp;rid=giphy.gif&amp;ct=g" alt="code coding GIF by HACKTIV8" style="width: 150px; height: 160px; left: 0px; top: 0px; opacity: 0;">
+  </p>
