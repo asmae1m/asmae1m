@@ -2,7 +2,7 @@ Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer enginee
 
 ##### - 🔭 I’m currently working on literally Everything
 
-##### - 🌱 I’m currently learning AI stuff
+##### - 🌱 Learning AI stuff
 
 ##### - 📫 How to reach me: INSTA :@asmae_mahjoubi
 
@@ -11,8 +11,6 @@ Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer enginee
 ##### - ⚡ Fun fact: Just basket and songs!
 
 ## Skills and endorsements :
-
-##### Tools :
 
 
 <p align="center" dir="auto">
