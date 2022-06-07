@@ -1,4 +1,4 @@
-Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer engineering student in University Moulay Ismail, Meknes,Morocco. I'm currently continuing my studies in Germany.
+Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer science student in University Moulay Ismail, Meknes,Morocco. I'm currently continuing my studies in Germany.
 
 ##### - 🔭 I’m currently working on literally Everything
 
