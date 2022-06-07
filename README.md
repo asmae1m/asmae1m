@@ -1,11 +1,8 @@
-Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer engineering student in University Moulay Ismail, Meknes,Morocco. I'm currently completing my studies in Germany. So far, i've studied everything that builds up computer science from web development to AI; and this is my projects sharing space, it's still primary, but it'll grow to be a mild of great projects!
+Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer engineering student in University Moulay Ismail, Meknes,Morocco. I'm currently continuing my studies in Germany.
 
 ##### - 🔭 I’m currently working on literally Everything
 
 ##### - 🌱 I’m currently learning AI stuff
-
-##### - 👯 I’m looking to collaborate on INTERRESTING projects
-
 
 ##### - 📫 How to reach me: INSTA :@asmae_mahjoubi
 
@@ -15,7 +12,7 @@ Hi there my name is Mahjoubi Asmae 👋, i'm 20 yrs old, i am a computer enginee
 
 ## Skills and endorsements :
 
-##### Backend and Frontend tools :
+##### Tools :
 
 
 <p align="center" dir="auto">
